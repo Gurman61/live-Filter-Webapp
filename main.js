@@ -25,7 +25,7 @@ function draw()
     //fill(255,0,0);
     //stroke(0,255,0);
     //circle(noseX,noseY,20);
-    image(clown_nose,noseX-30,noseY+30,60,60);
+    image(clown_nose,noseX-30,noseY+10,60,60);
 }
 function take_snapshot()
 {
